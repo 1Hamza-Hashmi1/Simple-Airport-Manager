@@ -1,5 +1,3 @@
-package lab1;
-
 public class NonMember extends Passenger{
     
     public NonMember(String name, int age){
