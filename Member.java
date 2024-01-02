@@ -1,5 +1,3 @@
-package lab1;
-
 public class Member extends Passenger{
     private int yearsOfMembership;
     
