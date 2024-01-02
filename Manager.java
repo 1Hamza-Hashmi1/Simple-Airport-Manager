@@ -1,9 +1,5 @@
 import java.util.ArrayList;
 
-/**
- *
- * @author hamza
- */
 public class Manager {
 
     private ArrayList<Flight> Flights;
